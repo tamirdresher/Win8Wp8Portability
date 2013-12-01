@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CODEVALUE130313</Machine>
+    <WindowsUser>CodeValue</WindowsUser>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>021f5a8a-af14-4f38-aaa8-a9019e279617</PackageIdentityName>
+    <RegisteredManifestChecksum>96171EDC61572155DF48ED6701E7ACD892D4E4622B65047ACF9AC05957F9D085</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>021f5a8a-af14-4f38-aaa8-a9019e279617_1.0.0.0_x86__q9ky9khns667c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>021f5a8a-af14-4f38-aaa8-a9019e279617_q9ky9khns667c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>021f5a8a-af14-4f38-aaa8-a9019e279617</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=CodeValue</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-08T07:52:16.229</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\ExistInOne.Win8.exe">
+      <PackagePath>ExistInOne.Win8.exe</PackagePath>
+      <Modified>2013-11-08T07:52:13.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\ExistInOne_Win8.winmd">
+      <PackagePath>ExistInOne_Win8.winmd</PackagePath>
+      <Modified>2013-11-08T07:52:11.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\ExistInOne.Win8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\ExistInOne.Win8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\ExistInOne.Win8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\ExistInOne.Win8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-08T07:52:11.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-11-08T07:52:11.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\Debug\ExistInOne.Win8\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-08T07:52:15.076</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

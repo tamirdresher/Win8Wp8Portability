@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\|

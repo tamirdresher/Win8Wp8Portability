@@ -1,0 +1,1 @@
+C:\Lect\Lects\Building Apps with common code for Windows 8 and WP8\Samples\Win8Wp8Portability\ExistInOne.Win8\ExistInOne.Win8.vcxproj;x86
